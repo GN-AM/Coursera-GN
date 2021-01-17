@@ -1,4 +1,4 @@
 # Coursera-GN
-Test of web page
+Test
 
 I'm trying to realize how this must be done
